@@ -16,14 +16,10 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.21cn.cloud189</string>
-				<key>bundle-version</key>
-				<string>1.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>你好啊</string>
+				<string>HKT</string>
 			</dict>
 		</dict>
 	</array>
